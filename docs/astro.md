@@ -39,6 +39,10 @@ Additional folders you can create:
 - `styles`: any global style overall can be coded here, here you would put `css` files or `react`.
 - `scripts`: any scripts you need to make can be put here. 
 
+# Links & Astro (change title to Astro's quirks/?)
+
+- To link different `pages` to each other, use `/file_name/`, rather than the standard `/src/pages/file_name.astro`.
+
 **Astro Readme Tutorial:**
 
 ---

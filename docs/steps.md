@@ -36,5 +36,8 @@ Dado que vas a empezar permitiendo que el usuario introduzca sus propios número
 ------------------------------
 
 + need to add dependencies.txt and mention in readme those.
+
+Other notes:
+- Research "Bessel's Correction"
  
 (end)
